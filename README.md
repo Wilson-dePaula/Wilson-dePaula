@@ -5,6 +5,6 @@
 - 💬 Me aperfeiçoando em Python, Ui Path, Talend e Pentaho;
 - Entre em contato pelo meu Linkedin:
   
-  <div
+<div>
   <a href="www.linkedin.com/in/wilson-de-paula-594040172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
