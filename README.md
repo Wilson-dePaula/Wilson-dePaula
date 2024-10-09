@@ -1,8 +1,8 @@
 ### Olá pessoal, eu sou Wilson, prazer! 👋
 
 - 🔭 Atualmente trabalhando com Suporte RPA e ETL;
-- 🌱 Formado em Engenharia de Telecomunicações e atualmente iniciando Pós Graduação em Gestão de Projetos e Negócios em Tecnologia da Informação;
-- 💬 Me aperfeiçoando em Python, Ui Path, Talend e Pentaho;
+- 🌱 Formado em Engenharia de Telecomunicações e atualmente cursando Pós Graduação em Gestão de Projetos e Negócios em Tecnologia da Informação;
+- 💬 Experiência com Python, Ui Path, Talend e Pentaho;
 - Entre em contato pelo meu Linkedin:
   
 <div>
